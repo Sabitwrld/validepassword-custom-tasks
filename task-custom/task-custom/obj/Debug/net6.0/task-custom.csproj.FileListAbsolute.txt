@@ -1,0 +1,15 @@
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.AssemblyInfoInputs.cache
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.AssemblyInfo.cs
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.csproj.CoreCompileInputs.cache
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.sourcelink.json
+C:\Users\nonam\source\repos\task-custom\task-custom\bin\Debug\net6.0\task-custom.exe
+C:\Users\nonam\source\repos\task-custom\task-custom\bin\Debug\net6.0\task-custom.deps.json
+C:\Users\nonam\source\repos\task-custom\task-custom\bin\Debug\net6.0\task-custom.runtimeconfig.json
+C:\Users\nonam\source\repos\task-custom\task-custom\bin\Debug\net6.0\task-custom.dll
+C:\Users\nonam\source\repos\task-custom\task-custom\bin\Debug\net6.0\task-custom.pdb
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.dll
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\refint\task-custom.dll
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.pdb
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\task-custom.genruntimeconfig.cache
+C:\Users\nonam\source\repos\task-custom\task-custom\obj\Debug\net6.0\ref\task-custom.dll
